@@ -1,6 +1,6 @@
 # Ex. No. 5 - SIMULATION-OF-DELTA-3D-PRINTER-MACHINE
 
-### DATE: 
+### DATE: 03.10.2023
 ## AIM:
 ### To simulate the construction of delta 3D printer and to get in-depth knowledge of mechatronics of delta 3D printer.
 
@@ -10,7 +10,6 @@
 ### ●	System - Windows 7 or higher, 1 GB RAM.
 
 ## PROCEDURE:
-
 ## Assembly of Delta 3D Printer
 ### 1.	Select 'Assembly of Delta 3D Printer' from the visible list.
 ### 2.	All the parts related to Delta 3D Printer will be shown on the screen.
@@ -29,10 +28,11 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
 
-## Output:
+## OUTPUT:
+![image](https://github.com/Praveen22042005/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/112475766/dc79f554-b03c-4977-83fc-bee01071a310)
 
-### Name:
-### Register Number:
+### Name: PRAVEEN BV
+### Register Number: 212222100036
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
